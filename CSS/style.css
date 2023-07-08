@@ -1,0 +1,48 @@
+body {
+    background-color: #aa8c91 ;
+    font-family: Open Sans;
+}
+nav {
+    background-color: #6b484e;
+}
+
+.tamanhoh1{
+    font-size: 25px
+} 
+.tamanhoh2{
+    font-size: 25px;
+} 
+.tamanhoh3{
+    font-size: 25px;
+} 
+.tamanhoh4{
+    font-size: 25px;
+} 
+.criarcadastrobot {
+    justify-content: center;
+    background-color: #6b484e;
+}
+.legend-cadastro {
+    font-size: 35px;
+    font-weight: bolder;
+    margin: 20px;
+}
+.section1 {
+    color:  #f4cccb;
+}
+
+.section2 {
+    color: #f4cccb;
+    justify-content: space-evenly;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #6b484e;
+    font-weight: bold;
+}
+
+
+
